@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: A little glimpse about me:
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is **Artin Sinani**. I am an aspiring **Data Scientist** in **Los Angeles, California**. I enjoy applying my highly analytical skills to large amounts of data. I aspire to find ways through artificial intelligence, machine learning and the powerful methods of data science to make lives better for people, monetize for companies and solve real world problems.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I have a BS in Economics from the University of California, San Diego, where I focused on the powerful and real world applications of Econometrics. 
+
 
 What else do you need?
 
 ### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I was a bit unprepared for this, let me jot down a few fun things about myself. 
