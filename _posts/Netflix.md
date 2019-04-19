@@ -1,5 +1,5 @@
 ---
-layout: Netflix
+layout: post
 title: Stream Wars: Attack of The Clones! 
 subtitle: Should Netflix Be Afraid of Competition?
 ---
