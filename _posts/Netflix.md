@@ -1,9 +1,12 @@
 ---
 layout: Netflix
-title: Stream Wars: Attack of The Clones! Should Netflix Be Afraid of Competition?
-image: /img/Q3 NFLX.png {:class='img-responsive"}
+title: Stream Wars: Attack of The Clones! 
+subtitle: Should Netflix Be Afraid of Competition?
 ---
-https://medium.com/@artin.sinani/stream-wars-attack-of-the-clones-should-netflix-be-afraid-of-competition-f6ede7656c4f
+
+![Netflix](/img/Q3 NFLX.png){:class="img-responsive"}
+
+[**Medium Link**] (https://medium.com/@artin.sinani/stream-wars-attack-of-the-clones-should-netflix-be-afraid-of-competition-f6ede7656c4f)
 
 
 Stream Wars: Attack of The Clones! 
